@@ -6075,7 +6075,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #bd5d38 !important;
+  background-color: #686868 !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -10021,7 +10021,7 @@ p.lead {
   text-transform: uppercase;
 }
 #sideNav .navbar-toggler:focus {
-  outline-color: #000;
+  outline-color: #;
 }
 
 @media (min-width: 992px) {
@@ -10079,7 +10079,7 @@ p.lead {
   margin-right: 0;
 }
 .social-icons .social-icon:hover {
-  background-color: #545b62;
+  background-color: #bd5d38;
 }
 
 .dev-icons {
